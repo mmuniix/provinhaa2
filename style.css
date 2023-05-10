@@ -1,0 +1,51 @@
+.fundo{
+
+    background-color: black;
+    color: white;
+    }
+.titulo{
+    color:cornflowerblue;
+}
+.info{
+ color:cornflowerblue;
+}
+
+.imagem{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border-color:cornflowerblue;
+    border-style: solid;
+    margin-left: 45%;
+    margin-right: 45%;
+}
+
+.projetos{
+    max-width: 500px;
+    max-height: 500px;
+}
+.fundo2{
+    background-color:blue;
+    height: 40px;
+    text-align: left;
+    font-style: oblique;
+    font-size: medium;
+    color: white;
+}
+
+.info{
+    color: white;
+    font-size: 30px;
+    margin-left: 20px;
+}
+
+.rodape table img{
+    border-radius: 30%;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+
+.rodape{
+    padding-left: 500px
+}
